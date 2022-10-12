@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I sink, zerefore I am.
+Lorem ipsum dolor sit amet
 
