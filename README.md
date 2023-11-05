@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I sink, zerefore I am
+- Computer Engineering undergradute at the University of Michigan
+- More about me: advaitiyer.com
 
