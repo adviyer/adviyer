@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Computer Engineering undergradute at the University of Michigan
+- Computer Engineering at the University of Michigan
 - More about me: advaitiyer.com
 
